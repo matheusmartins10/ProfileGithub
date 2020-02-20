@@ -1,0 +1,18 @@
+.logo {
+    color: white;
+    border-bottom: 0.25rem solid $darkGold;
+    font-family: $damion;
+    letter-spacing: 0.5rem;
+}
+
+.theme-button {
+    font-size: 2rem;
+    background: transparent;
+    padding: 0.5rem;
+    color: white;
+
+    i {
+        font-size: 2.5rem;
+        color: $darkGold;
+    }
+}

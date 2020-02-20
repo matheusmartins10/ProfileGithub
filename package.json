@@ -1,0 +1,31 @@
+{
+  "name": "github-profiles",
+  "version": "1.0.0",
+  "description": "An app that uses github API to display information of profiles when searched by usernames",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w ./assets/stylesheets/style.scss ./assets/stylesheets/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaharshivam/github-profiles.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Sass",
+    "Flexbox",
+    "Grid",
+    "API",
+    "Javascript"
+  ],
+  "author": "Shivam Chahar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaharshivam/github-profiles/issues"
+  },
+  "homepage": "https://github.com/chaharshivam/github-profiles#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
